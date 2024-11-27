@@ -1,1 +1,5 @@
 From,To
+OBS_STATUS,SDG Series
+Observation-level footnotes,COMMENT_OBS
+SDG Series,Unit of measure
+Unit of measure,Observation-level footnotes

@@ -12,11 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "[PROXY] Progress toward productive and sustainable agriculture, current status score [2.4.1]",
+                "[PROXY] Progress toward productive and sustainable agriculture, trend score [2.4.1]",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

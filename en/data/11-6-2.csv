@@ -1,1 +1,41 @@
-Year,Value
+Year,Degree of urbanisation,Value
+2010,,8.13815
+2011,,7.77176
+2012,,8.16554
+2013,,7.99936
+2014,,8.52633
+2015,,8.82938
+2016,,8.90962
+2017,,9.33525
+2018,,8.96015
+2019,,8.39884
+2010,Rural,7.1174
+2011,Rural,6.8017
+2012,Rural,7.14043
+2013,Rural,6.99069
+2014,Rural,7.4544
+2015,Rural,7.71846
+2016,Rural,7.78591
+2017,Rural,8.15157
+2018,Rural,7.8155
+2019,Rural,7.32164
+2010,Town and semi-dense area,8.46439
+2011,Town and semi-dense area,8.08239
+2012,Town and semi-dense area,8.49426
+2013,Town and semi-dense area,8.32313
+2014,Town and semi-dense area,8.87066
+2015,Town and semi-dense area,9.18643
+2016,Town and semi-dense area,9.27096
+2017,Town and semi-dense area,9.71604
+2018,Town and semi-dense area,9.32853
+2019,Town and semi-dense area,8.74565
+2010,Urban,8.46439
+2011,Urban,8.08239
+2012,Urban,8.49426
+2013,Urban,8.32313
+2014,Urban,8.87066
+2015,Urban,9.18643
+2016,Urban,9.27096
+2017,Urban,9.71604
+2018,Urban,9.32853
+2019,Urban,8.74565

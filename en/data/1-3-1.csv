@@ -1,1 +1,29 @@
-Year,Value
+Year,SOURCE_DETAIL,SDG Series,Age,Source details,Value
+2019,ILO estimates based on national sources,Proportion of population covered by at least one social protection benefit [1.3.1],,ILO estimates based on national sources,63.7
+2022,ILO estimates based on national sources,Proportion of population covered by at least one social protection benefit [1.3.1],,ILO estimates based on national sources,66.7
+2019,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),Proportion of children/households receiving child/family cash benefit [1.3.1],,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),1.9
+2020,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),Proportion of children/households receiving child/family cash benefit [1.3.1],,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),1.9
+2022,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),Proportion of children/households receiving child/family cash benefit [1.3.1],,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),7.4
+2019,ILO estimates based on national sources,Proportion of children/households receiving child/family cash benefit [1.3.1],under 15 years old,ILO estimates based on national sources,1.9
+2022,ILO estimates based on national sources,Proportion of children/households receiving child/family cash benefit [1.3.1],under 15 years old,ILO estimates based on national sources,7.4
+2019,ILO estimates based on national sources,Proportion of population with severe disabilities receiving disability cash benefit [1.3.1],,ILO estimates based on national sources,44.4
+2020,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),Proportion of population with severe disabilities receiving disability cash benefit [1.3.1],,ILO estimates based on national sources,44.4
+2021,ILO estimates based on national sources,Proportion of population with severe disabilities receiving disability cash benefit [1.3.1],,ILO estimates based on national sources,47.8
+2018,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),Proportion of population above statutory pensionable age receiving a pension [1.3.1],,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),99.2
+2021,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),Proportion of population above statutory pensionable age receiving a pension [1.3.1],,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),95.0
+2018,ILO estimates based on national sources,Proportion of population above statutory pensionable age receiving a pension [1.3.1],65 years old and over,ILO estimates based on national sources,99.2
+2021,ILO estimates based on national sources,Proportion of population above statutory pensionable age receiving a pension [1.3.1],65 years old and over,ILO estimates based on national sources,95.0
+2019,ILO estimates based on national sources,Proportion of poor population receiving social assistance cash benefit [1.3.1],,ILO estimates based on national sources,2.2
+2022,ILO estimates based on national sources,Proportion of poor population receiving social assistance cash benefit [1.3.1],,ILO estimates based on national sources,1.1
+2019,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),Proportion of unemployed persons receiving unemployment cash benefit [1.3.1],,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),3.2
+2020,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),Proportion of unemployed persons receiving unemployment cash benefit [1.3.1],,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),3.2
+2022,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),Proportion of unemployed persons receiving unemployment cash benefit [1.3.1],,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),3.4
+2019,ILO estimates based on national sources,Proportion of unemployed persons receiving unemployment cash benefit [1.3.1],15 years old and over,ILO estimates based on national sources,3.2
+2022,ILO estimates based on national sources,Proportion of unemployed persons receiving unemployment cash benefit [1.3.1],15 years old and over,ILO estimates based on national sources,3.4
+2019,ILO estimates based on national sources,Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,ILO estimates based on national sources,1.8
+2020,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,ILO estimates based on national sources,1.8
+2022,ILO estimates based on national sources,Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,ILO estimates based on national sources,4.7
+2019,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),Proportion of employed population covered in the event of work injury [1.3.1],,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),68.6
+2022,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),Proportion of employed population covered in the event of work injury [1.3.1],,ILO estimates based on country data compled through the ILO Social Security Inquiry (SSI),82.5
+2019,ILO estimates based on national sources,Proportion of employed population covered in the event of work injury [1.3.1],15 years old and over,ILO estimates based on national sources,68.6
+2022,ILO estimates based on national sources,Proportion of employed population covered in the event of work injury [1.3.1],15 years old and over,ILO estimates based on national sources,82.5

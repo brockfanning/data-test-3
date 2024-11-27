@@ -1,1 +1,25 @@
-Year,Value
+Year,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SDG Series,Unit of measure,Unit multiplier,Observation-level footnotes,Source details,Value
+2000,0,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,Forest area as a proportion of total land area [15.1.1],Percent,Units,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,58.49
+2010,0,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,Forest area as a proportion of total land area [15.1.1],Percent,Units,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,52.66
+2015,0,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,Forest area as a proportion of total land area [15.1.1],Percent,Units,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,54.74
+2016,0,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,Forest area as a proportion of total land area [15.1.1],Percent,Units,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,55.17
+2017,0,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,Forest area as a proportion of total land area [15.1.1],Percent,Units,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,55.6
+2018,0,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,Forest area as a proportion of total land area [15.1.1],Percent,Units,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,56.03
+2019,0,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,Forest area as a proportion of total land area [15.1.1],Percent,Units,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,56.46
+2020,0,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,Forest area as a proportion of total land area [15.1.1],Percent,Units,Officially reported data,FAO. Global Forest Resources Assessment 2020 and FAOSTAT,56.89
+2000,3,Officially reported data,FAO. Global Forest Resources Assessment 2020,Forest area (hectares) [15.1.1],Hectares,Thousands,Officially reported data,FAO. Global Forest Resources Assessment 2020,20.47
+2010,3,Officially reported data,FAO. Global Forest Resources Assessment 2020,Forest area (hectares) [15.1.1],Hectares,Thousands,Officially reported data,FAO. Global Forest Resources Assessment 2020,18.43
+2015,3,Officially reported data,FAO. Global Forest Resources Assessment 2020,Forest area (hectares) [15.1.1],Hectares,Thousands,Officially reported data,FAO. Global Forest Resources Assessment 2020,19.16
+2016,3,Officially reported data,FAO. Global Forest Resources Assessment 2020,Forest area (hectares) [15.1.1],Hectares,Thousands,Officially reported data,FAO. Global Forest Resources Assessment 2020,19.31
+2017,3,Officially reported data,FAO. Global Forest Resources Assessment 2020,Forest area (hectares) [15.1.1],Hectares,Thousands,Officially reported data,FAO. Global Forest Resources Assessment 2020,19.46
+2018,3,Officially reported data,FAO. Global Forest Resources Assessment 2020,Forest area (hectares) [15.1.1],Hectares,Thousands,Officially reported data,FAO. Global Forest Resources Assessment 2020,19.61
+2019,3,Officially reported data,FAO. Global Forest Resources Assessment 2020,Forest area (hectares) [15.1.1],Hectares,Thousands,Officially reported data,FAO. Global Forest Resources Assessment 2020,19.76
+2020,3,Officially reported data,FAO. Global Forest Resources Assessment 2020,Forest area (hectares) [15.1.1],Hectares,Thousands,Officially reported data,FAO. Global Forest Resources Assessment 2020,19.91
+2000,3,,FAO. FAOSTAT,Land area (hectares) [15.1.1],Hectares,Thousands,,FAO. FAOSTAT,35.0
+2010,3,,FAO. FAOSTAT,Land area (hectares) [15.1.1],Hectares,Thousands,,FAO. FAOSTAT,35.0
+2015,3,,FAO. FAOSTAT,Land area (hectares) [15.1.1],Hectares,Thousands,,FAO. FAOSTAT,35.0
+2016,3,,FAO. FAOSTAT,Land area (hectares) [15.1.1],Hectares,Thousands,,FAO. FAOSTAT,35.0
+2017,3,,FAO. FAOSTAT,Land area (hectares) [15.1.1],Hectares,Thousands,,FAO. FAOSTAT,35.0
+2018,3,,FAO. FAOSTAT,Land area (hectares) [15.1.1],Hectares,Thousands,,FAO. FAOSTAT,35.0
+2019,3,,FAO. FAOSTAT,Land area (hectares) [15.1.1],Hectares,Thousands,,FAO. FAOSTAT,35.0
+2020,3,,FAO. FAOSTAT,Land area (hectares) [15.1.1],Hectares,Thousands,,FAO. FAOSTAT,35.0

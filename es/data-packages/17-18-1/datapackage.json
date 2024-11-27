@@ -12,12 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1]",
+                "Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

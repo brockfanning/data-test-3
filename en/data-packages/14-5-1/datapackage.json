@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "34.84104",
+                "40.271239999999999",
+                "40.2791",
+                ""
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "20.791830000000001",
+                "29.570509999999999",
+                "40.2791",
+                ""
+              ]
+            },
+            "title": "LOWER_BOUND"
           },
           {
             "name": "Value",

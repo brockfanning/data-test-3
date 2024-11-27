@@ -12,12 +12,139 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "N",
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Value cannot exist.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NaN",
+                "37.759509999999999",
+                "43.369019999999999",
+                "43.377499999999998",
+                ""
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NaN",
+                "22.172090000000001",
+                "34.71725",
+                "43.377499999999998",
+                ""
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]",
+                "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-relevant",
+                "Country Data",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Value cannot exist.",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NaN",
+                "43.377499999999998",
+                ""
+              ]
+            },
+            "title": "Upper bound value"
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NaN",
+                "43.377499999999998",
+                ""
+              ]
+            },
+            "title": "Lower bound value"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

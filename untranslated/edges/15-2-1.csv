@@ -1,1 +1,7 @@
 From,To
+UNIT_MULT,COMMENT_OBS
+COMMENT_OBS,SOURCE_DETAIL
+SOURCE_DETAIL,SDG Series
+SDG Series,Unit of measure
+Unit of measure,Observation-level footnotes
+Observation-level footnotes,Source details

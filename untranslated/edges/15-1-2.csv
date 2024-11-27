@@ -1,1 +1,10 @@
 From,To
+OBS_STATUS,NATURE
+NATURE,UPPER_BOUND
+COMMENT_OBS,Observation-level footnotes
+Lower bound value,COMMENT_OBS
+UPPER_BOUND,LOWER_BOUND
+LOWER_BOUND,SDG Series
+SDG Series,Nature of data points
+Nature of data points,Upper bound value
+Upper bound value,Lower bound value

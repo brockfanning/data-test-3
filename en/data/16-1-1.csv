@@ -1,1 +1,88 @@
-Year,Value
+Year,SDG Series,Sex,Unit of measure,Value
+2000,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,"Per 100,000 population",21.26
+2001,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,"Per 100,000 population",25.92
+2002,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,"Per 100,000 population",38.06
+2003,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,"Per 100,000 population",28.89
+2004,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,"Per 100,000 population",34.66
+2005,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,"Per 100,000 population",34.75
+2006,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,"Per 100,000 population",40.37
+2007,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,"Per 100,000 population",40.37
+2008,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,"Per 100,000 population",43.2
+2009,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,"Per 100,000 population",46.96
+2010,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,"Per 100,000 population",52.76
+2011,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,"Per 100,000 population",42.66
+2012,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,"Per 100,000 population",49.63
+2000,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Female,"Per 100,000 population",5.31
+2001,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Female,"Per 100,000 population",3.54
+2002,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Female,"Per 100,000 population",8.88
+2003,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Female,"Per 100,000 population",5.36
+2004,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Female,"Per 100,000 population",1.8
+2005,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Female,"Per 100,000 population",5.4
+2006,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Female,"Per 100,000 population",7.2
+2007,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Female,"Per 100,000 population",5.4
+2008,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Female,"Per 100,000 population",3.6
+2009,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Female,"Per 100,000 population",3.6
+2010,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Female,"Per 100,000 population",12.63
+2011,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Female,"Per 100,000 population",5.45
+2012,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Female,"Per 100,000 population",3.65
+2000,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Male,"Per 100,000 population",38.71
+2001,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Male,"Per 100,000 population",50.44
+2002,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Male,"Per 100,000 population",69.98
+2003,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Male,"Per 100,000 population",54.61
+2004,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Male,"Per 100,000 population",70.52
+2005,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Male,"Per 100,000 population",66.73
+2006,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Male,"Per 100,000 population",76.49
+2007,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Male,"Per 100,000 population",78.44
+2008,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Male,"Per 100,000 population",86.32
+2009,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Male,"Per 100,000 population",94.25
+2010,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Male,"Per 100,000 population",96.58
+2011,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Male,"Per 100,000 population",83.34
+2012,"Number of victims of intentional homicide per 100,000 population [16.1.1]",Male,"Per 100,000 population",99.96
+1997,Number of victims of intentional homicide [16.1.1],,Number,30.0
+1998,Number of victims of intentional homicide [16.1.1],,Number,25.0
+1999,Number of victims of intentional homicide [16.1.1],,Number,27.0
+2000,Number of victims of intentional homicide [16.1.1],,Number,23.0
+2001,Number of victims of intentional homicide [16.1.1],,Number,28.0
+2002,Number of victims of intentional homicide [16.1.1],,Number,41.0
+2003,Number of victims of intentional homicide [16.1.1],,Number,31.0
+2004,Number of victims of intentional homicide [16.1.1],,Number,37.0
+2005,Number of victims of intentional homicide [16.1.1],,Number,37.0
+2006,Number of victims of intentional homicide [16.1.1],,Number,43.0
+2007,Number of victims of intentional homicide [16.1.1],,Number,43.0
+2008,Number of victims of intentional homicide [16.1.1],,Number,46.0
+2009,Number of victims of intentional homicide [16.1.1],,Number,50.0
+2010,Number of victims of intentional homicide [16.1.1],,Number,56.0
+2011,Number of victims of intentional homicide [16.1.1],,Number,45.0
+2012,Number of victims of intentional homicide [16.1.1],,Number,52.0
+1997,Number of victims of intentional homicide [16.1.1],Female,Number,6.0
+1998,Number of victims of intentional homicide [16.1.1],Female,Number,2.0
+1999,Number of victims of intentional homicide [16.1.1],Female,Number,4.0
+2000,Number of victims of intentional homicide [16.1.1],Female,Number,3.0
+2001,Number of victims of intentional homicide [16.1.1],Female,Number,2.0
+2002,Number of victims of intentional homicide [16.1.1],Female,Number,5.0
+2003,Number of victims of intentional homicide [16.1.1],Female,Number,3.0
+2004,Number of victims of intentional homicide [16.1.1],Female,Number,1.0
+2005,Number of victims of intentional homicide [16.1.1],Female,Number,3.0
+2006,Number of victims of intentional homicide [16.1.1],Female,Number,4.0
+2007,Number of victims of intentional homicide [16.1.1],Female,Number,3.0
+2008,Number of victims of intentional homicide [16.1.1],Female,Number,2.0
+2009,Number of victims of intentional homicide [16.1.1],Female,Number,2.0
+2010,Number of victims of intentional homicide [16.1.1],Female,Number,7.0
+2011,Number of victims of intentional homicide [16.1.1],Female,Number,3.0
+2012,Number of victims of intentional homicide [16.1.1],Female,Number,2.0
+1997,Number of victims of intentional homicide [16.1.1],Male,Number,24.0
+1998,Number of victims of intentional homicide [16.1.1],Male,Number,23.0
+1999,Number of victims of intentional homicide [16.1.1],Male,Number,23.0
+2000,Number of victims of intentional homicide [16.1.1],Male,Number,20.0
+2001,Number of victims of intentional homicide [16.1.1],Male,Number,26.0
+2002,Number of victims of intentional homicide [16.1.1],Male,Number,36.0
+2003,Number of victims of intentional homicide [16.1.1],Male,Number,28.0
+2004,Number of victims of intentional homicide [16.1.1],Male,Number,36.0
+2005,Number of victims of intentional homicide [16.1.1],Male,Number,34.0
+2006,Number of victims of intentional homicide [16.1.1],Male,Number,39.0
+2007,Number of victims of intentional homicide [16.1.1],Male,Number,40.0
+2008,Number of victims of intentional homicide [16.1.1],Male,Number,44.0
+2009,Number of victims of intentional homicide [16.1.1],Male,Number,48.0
+2010,Number of victims of intentional homicide [16.1.1],Male,Number,49.0
+2011,Number of victims of intentional homicide [16.1.1],Male,Number,42.0
+2012,Number of victims of intentional homicide [16.1.1],Male,Number,50.0

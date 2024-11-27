@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                "E",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Virgin Islands Telephone Corporation (Vitelco).",
+                "ITU estimate.",
+                "ITU Estimate.",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

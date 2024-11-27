@@ -12,8 +12,85 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "B",
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019)",
+                "Represent 1996 proxy",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lakes and rivers permanent water area change (%) [6.6.1]",
+                "Lakes and rivers permanent water area (square kilometres) [6.6.1]",
+                "Lakes and rivers permanent water area (% of total land area) [6.6.1]",
+                "Lakes and rivers seasonal water area change (%) [6.6.1]",
+                "Lakes and rivers seasonal water area (square kilometres) [6.6.1]",
+                "Lakes and rivers seasonal water area (% of total land area) [6.6.1]",
+                "Reservoir minimum water area (square kilometres) [6.6.1]",
+                "Reservoir minimum water area (% of total land area) [6.6.1]",
+                "Reservoir maximum water area (square kilometres) [6.6.1]",
+                "Reservoir maximum water area (% of total land area) [6.6.1]",
+                "Mangrove total area change (%) [6.6.1]",
+                "Mangrove area (square kilometres) [6.6.1]",
+                "Wetlands area (square kilometres) [6.6.1]",
+                "Wetlands area (% of total land area) [6.6.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Square kilometers",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019)",
+                "Represent 1996 proxy",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

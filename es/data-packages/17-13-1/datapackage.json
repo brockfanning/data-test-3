@@ -12,8 +12,60 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Bank national accounts data, and OECD National Accounts data files.",
+                "International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual growth of the general government final consumption expenditure (%) [17.13.1]",
+                "Annual growth of households and NPISHs final consumption expenditure [17.13.1]",
+                "Annual growth of exports of goods and services (%) [17.13.1]",
+                "Annual growth of imports of goods and services (%) [17.13.1]",
+                "Annual GDP growth (%) [17.13.1]",
+                "DEC alternative conversion factor (in local currency unit per United States dollar) [17.13.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Ratio",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Bank national accounts data, and OECD National Accounts data files.",
+                "International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",

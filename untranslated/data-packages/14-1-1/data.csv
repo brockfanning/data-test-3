@@ -1,1 +1,40 @@
-Year,Value
+Year,OBS_STATUS,SOURCE_DETAIL,SDG Series,Composite breakdown,Unit of measure,Observation status,Source details,Value
+2015,A,"Plastic Pollution (MLW, MDMAP, ICC)",Beach litter per square kilometer (Number) [14.1.1],,Number,Normal value,"Plastic Pollution (MLW, MDMAP, ICC)",48352.13246
+2016,A,"Plastic Pollution (MLW, MDMAP, ICC)",Beach litter per square kilometer (Number) [14.1.1],,Number,Normal value,"Plastic Pollution (MLW, MDMAP, ICC)",1042554.763
+2017,A,"Plastic Pollution (MLW, MDMAP, ICC)",Beach litter per square kilometer (Number) [14.1.1],,Number,Normal value,"Plastic Pollution (MLW, MDMAP, ICC)",864228.2019
+2018,A,"Plastic Pollution (MLW, MDMAP, ICC)",Beach litter per square kilometer (Number) [14.1.1],,Number,Normal value,"Plastic Pollution (MLW, MDMAP, ICC)",453534.4669
+2021,A,"Plastic Pollution (MLW, MDMAP, ICC)",Beach litter per square kilometer (Number) [14.1.1],,Number,Normal value,"Plastic Pollution (MLW, MDMAP, ICC)",100771.577
+2022,A,"Plastic Pollution (MLW, MDMAP, ICC)",Beach litter per square kilometer (Number) [14.1.1],,Number,Normal value,"Plastic Pollution (MLW, MDMAP, ICC)",126498.844
+2018,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: Extreme,Percent,Definition differs,World Environment Situation Room,0.61726
+2019,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: Extreme,Percent,Definition differs,World Environment Situation Room,0.18961
+2020,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: Extreme,Percent,Definition differs,World Environment Situation Room,0.14924
+2021,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: Extreme,Percent,Definition differs,World Environment Situation Room,0.92144
+2022,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: Extreme,Percent,Definition differs,World Environment Situation Room,0.12618
+2018,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: High,Percent,Definition differs,World Environment Situation Room,7.35839
+2019,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: High,Percent,Definition differs,World Environment Situation Room,2.77579
+2020,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: High,Percent,Definition differs,World Environment Situation Room,2.61674
+2021,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: High,Percent,Definition differs,World Environment Situation Room,4.94102
+2022,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: High,Percent,Definition differs,World Environment Situation Room,2.85232
+2018,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: Moderate,Percent,Definition differs,World Environment Situation Room,6.90701
+2019,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: Moderate,Percent,Definition differs,World Environment Situation Room,4.6693
+2020,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: Moderate,Percent,Definition differs,World Environment Situation Room,4.91438
+2021,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: Moderate,Percent,Definition differs,World Environment Situation Room,5.91238
+2022,D,World Environment Situation Room,"Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",Frequency of Chlorophyll-a concentration: Moderate,Percent,Definition differs,World Environment Situation Room,5.49902
+2005,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,1.01592
+2006,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,4.32924
+2007,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,1.67468
+2008,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,0.72688
+2009,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,25.63924
+2010,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,22.92223
+2011,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,0.5353
+2012,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,0.76379
+2013,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,0.58253
+2014,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,0.86663
+2015,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,0.88088
+2016,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,1.6158
+2017,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,1.92538
+2018,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,6.52129
+2019,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,0.1907
+2020,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,0.06251
+2021,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,5.67442
+2022,A,World Environment Situation Room,"Chlorophyll-a deviations, remote sensing  [14.1.1]",,Percent,Normal value,World Environment Situation Room,0.0341

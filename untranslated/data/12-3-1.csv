@@ -1,1 +1,17 @@
-Year,Value
+Year,COMMENT_OBS,SDG Series,Composite breakdown,Unit of measure,Observation-level footnotes,Value
+2019,Low Confidence,Food waste [12.3.1],,Metric Tons,Low Confidence,11746.8412
+2022,Low Confidence,Food waste [12.3.1],,Metric Tons,Low Confidence,14557.06851
+2019,Very Low Confidence,Food waste [12.3.1],Food Waste Sector: Households,Metric Tons,Low Confidence,7732.11251
+2022,Low Confidence,Food waste [12.3.1],Food Waste Sector: Households,Metric Tons,Low Confidence,8802.17494
+2019,Low Confidence,Food waste [12.3.1],Food Waste Sector: Out-of-home consumption,Metric Tons,Very Low Confidence,2674.66572
+2022,Very Low Confidence,Food waste [12.3.1],Food Waste Sector: Out-of-home consumption,Metric Tons,Very Low Confidence,4249.05693
+2019,Low Confidence,Food waste [12.3.1],Food Waste Sector: Retail,Metric Tons,Very Low Confidence,1340.06297
+2022,Very Low Confidence,Food waste [12.3.1],Food Waste Sector: Retail,Metric Tons,Very Low Confidence,1505.83665
+2019,,Food waste per capita [12.3.1],,Kilograms,Low Confidence,116.50607
+2022,Low Confidence,Food waste per capita [12.3.1],,Kilograms,Low Confidence,146.35368
+2019,,Food waste per capita [12.3.1],Food Waste Sector: Households,Kilograms,Low Confidence,76.68768
+2022,Low Confidence,Food waste per capita [12.3.1],Food Waste Sector: Households,Kilograms,Low Confidence,88.4952
+2019,,Food waste per capita [12.3.1],Food Waste Sector: Out-of-home consumption,Kilograms,Very Low Confidence,26.52754
+2022,Very Low Confidence,Food waste per capita [12.3.1],Food Waste Sector: Out-of-home consumption,Kilograms,Very Low Confidence,42.71912
+2019,,Food waste per capita [12.3.1],Food Waste Sector: Retail,Kilograms,Very Low Confidence,13.29085
+2022,Very Low Confidence,Food waste per capita [12.3.1],Food Waste Sector: Retail,Kilograms,Very Low Confidence,15.13936

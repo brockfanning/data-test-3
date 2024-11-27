@@ -1,1 +1,244 @@
-Year,Value
+Year,OBS_STATUS,COMMENT_OBS,SDG Series,Unit of measure,Observation status,Observation-level footnotes,Value
+2005,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),24.38897
+2006,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),23.50865
+2007,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),21.80596
+2008,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),18.35646
+2009,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),15.82532
+2010,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),14.72137
+2011,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),14.96125
+2012,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),21.34958
+2013,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),22.60358
+2014,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),19.45209
+2015,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),9.54124
+2016,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),-0.06127
+2017,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),-6.59123
+2018,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),-9.07473
+2019,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),-4.60399
+2020,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),5.29709
+2021,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),12.19968
+2022,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers permanent water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),15.7262
+2000,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.17138
+2001,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.50255
+2002,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.75968
+2003,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.08435
+2004,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.40151
+2005,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.55358
+2006,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.54258
+2007,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.52131
+2008,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.47823
+2009,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.44662
+2010,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.43283
+2011,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.43583
+2012,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.51561
+2013,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.53128
+2014,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.49192
+2015,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.36813
+2016,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.2482
+2017,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.16664
+2018,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.13563
+2019,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.19146
+2020,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.31512
+2021,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.40134
+2022,A,,Lakes and rivers permanent water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.44538
+2000,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00049
+2001,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00144
+2002,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00217
+2003,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.0031
+2004,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.004
+2005,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00444
+2006,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00441
+2007,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00435
+2008,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00422
+2009,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00413
+2010,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00409
+2011,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.0041
+2012,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00433
+2013,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00438
+2014,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00426
+2015,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00391
+2016,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00357
+2017,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00333
+2018,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00324
+2019,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.0034
+2020,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00376
+2021,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.004
+2022,A,,Lakes and rivers permanent water area (% of total land area) [6.6.1],Percent,Normal value,,0.00413
+2005,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),-9.20048
+2006,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),-6.94328
+2007,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),-4.83075
+2008,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),-4.42454
+2009,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),-7.67189
+2010,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),-6.81662
+2011,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),-3.97204
+2012,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),-4.12925
+2013,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),-0.77764
+2014,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),15.51179
+2015,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),19.03933
+2016,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),41.76024
+2017,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),64.81657
+2018,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),95.10902
+2019,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),100.57147
+2020,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),112.5156
+2021,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),108.04615
+2022,B,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Lakes and rivers seasonal water area change (%) [6.6.1],Percent,Time series break,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),114.90943
+2000,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.13583
+2001,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.38226
+2002,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.71668
+2003,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.04709
+2004,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.35303
+2005,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.55713
+2006,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.59584
+2007,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.63207
+2008,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.63903
+2009,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.58334
+2010,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.59801
+2011,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.64679
+2012,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.6441
+2013,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.70157
+2014,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,1.98092
+2015,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,2.04142
+2016,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,2.43106
+2017,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,2.82645
+2018,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,3.34594
+2019,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,3.43962
+2020,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,3.64445
+2021,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,3.5678
+2022,A,,Lakes and rivers seasonal water area (square kilometres) [6.6.1],Square kilometers,Normal value,,3.6855
+2000,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00039
+2001,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00109
+2002,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00205
+2003,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00299
+2004,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00387
+2005,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00445
+2006,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00456
+2007,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00466
+2008,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00468
+2009,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00452
+2010,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00457
+2011,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00471
+2012,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.0047
+2013,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00486
+2014,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00566
+2015,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00583
+2016,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00695
+2017,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00808
+2018,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00956
+2019,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.00983
+2020,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.01041
+2021,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.01019
+2022,A,,Lakes and rivers seasonal water area (% of total land area) [6.6.1],Percent,Normal value,,0.01053
+2000,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2001,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2002,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2003,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2004,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2005,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2006,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2007,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2008,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2009,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2010,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2011,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2012,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2013,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2014,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2015,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2016,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2017,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2018,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2019,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2020,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2021,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2022,A,,Reservoir minimum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2000,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2001,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2002,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2003,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2004,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2005,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2006,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2007,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2008,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2009,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2010,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2011,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2012,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2013,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2014,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2015,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2016,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2017,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2018,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2019,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2020,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2021,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2022,A,,Reservoir minimum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2000,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2001,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2002,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2003,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2004,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2005,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2006,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2007,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2008,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2009,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2010,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2011,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2012,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2013,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2014,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2015,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2016,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2017,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2018,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2019,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2020,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2021,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2022,A,,Reservoir maximum water area (square kilometres) [6.6.1],Square kilometers,Normal value,,0.0
+2000,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2001,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2002,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2003,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2004,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2005,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2006,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2007,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2008,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2009,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2010,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2011,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2012,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2013,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2014,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2015,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2016,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2017,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2018,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2019,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2020,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2021,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2022,A,,Reservoir maximum water area (% of total land area) [6.6.1],Percent,Normal value,,0.0
+2007,A,,Mangrove total area change (%) [6.6.1],Percent,Normal value,,-3.57974
+2008,A,,Mangrove total area change (%) [6.6.1],Percent,Normal value,,-3.86402
+2009,A,,Mangrove total area change (%) [6.6.1],Percent,Normal value,,-3.49279
+2010,A,,Mangrove total area change (%) [6.6.1],Percent,Normal value,,-2.65268
+2015,A,,Mangrove total area change (%) [6.6.1],Percent,Normal value,,0.45039
+2016,A,,Mangrove total area change (%) [6.6.1],Percent,Normal value,,-0.537
+2017,A,,Mangrove total area change (%) [6.6.1],Percent,Normal value,,0.29478
+2018,A,,Mangrove total area change (%) [6.6.1],Percent,Normal value,,-0.09472
+2019,A,,Mangrove total area change (%) [6.6.1],Percent,Normal value,,0.18978
+2020,A,,Mangrove total area change (%) [6.6.1],Percent,Normal value,,-1.24415
+2000,A,Represent 1996 proxy,Mangrove area (square kilometres) [6.6.1],Square kilometers,Normal value,Represent 1996 proxy,2.6488
+2007,A,,Mangrove area (square kilometres) [6.6.1],Square kilometers,Normal value,Represent 1996 proxy,2.55398
+2008,A,,Mangrove area (square kilometres) [6.6.1],Square kilometers,Normal value,Represent 1996 proxy,2.54645
+2009,A,,Mangrove area (square kilometres) [6.6.1],Square kilometers,Normal value,Represent 1996 proxy,2.55628
+2010,A,,Mangrove area (square kilometres) [6.6.1],Square kilometers,Normal value,Represent 1996 proxy,2.57853
+2015,A,,Mangrove area (square kilometres) [6.6.1],Square kilometers,Normal value,Represent 1996 proxy,2.66073
+2016,A,,Mangrove area (square kilometres) [6.6.1],Square kilometers,Normal value,Represent 1996 proxy,2.63457
+2017,A,,Mangrove area (square kilometres) [6.6.1],Square kilometers,Normal value,Represent 1996 proxy,2.6566
+2018,A,,Mangrove area (square kilometres) [6.6.1],Square kilometers,Normal value,Represent 1996 proxy,2.64629
+2019,A,,Mangrove area (square kilometres) [6.6.1],Square kilometers,Normal value,Represent 1996 proxy,2.65382
+2020,A,,Mangrove area (square kilometres) [6.6.1],Square kilometers,Normal value,Represent 1996 proxy,2.61584
+2017,A,,Wetlands area (square kilometres) [6.6.1],Square kilometers,Normal value,,14.19715
+2017,A,,Wetlands area (% of total land area) [6.6.1],Percent,Normal value,,4.09
